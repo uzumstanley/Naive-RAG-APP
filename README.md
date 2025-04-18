@@ -1,7 +1,3 @@
-Here's a README file for your project:
-
----
-
 # Naive RAG App
 
 This is a simple app that utilizes a **Retrieval-Augmented Generation (RAG)** approach to answer questions based on the context provided in a CSV file. The app uses **Pinecone** for vector storage, **LangChain** for document processing and retrieval, and **OpenAI** embeddings for contextual understanding.
